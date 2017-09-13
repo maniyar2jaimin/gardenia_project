@@ -1,5 +1,9 @@
 # gardenia_project
-This repository is created for the final project submitted for Exploratory Data Analytics course.
+
+This code is taken from the winmers code of competitiom here is the original repository have a look
+https://github.com/benedekrozemberczki/AV_Ultimate_Student_Hunt
+
+This repository is created for the final project submitted for Exploratory Data Analytics course. I only made some chages original work is not mine.
 
 Basically this project is chosen from www.analyticsvidhya.com. A Competition held in website during sep 24 to oct 02 2016 with name “Ultimate student hunt”. We take that as our project for subject. The project is aimed to develop a prediction for footfall in park present in Gardenia Country. So, data is given for various park of gardenia country for the period of 1990 to 2005. There are total 18 parameters in data.
 Competition page is https://datahack.analyticsvidhya.com/contest/the-ultimate-student-hunt/.
