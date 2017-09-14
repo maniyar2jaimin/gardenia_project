@@ -1,6 +1,6 @@
 # gardenia_project
 
-This code is taken from the winmers code of competitiom here is the original repository have a look
+This code is taken from the winners code of competitiom here is the original repository have a look
 https://github.com/benedekrozemberczki/AV_Ultimate_Student_Hunt
 
 This repository is created for the final project submitted for Exploratory Data Analytics course. I only made some chages original work is not mine.
